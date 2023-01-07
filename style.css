@@ -1,25 +1,14 @@
-#start-btn
-{
-    width: 40%;
-} 
-#camera
-{
-    width:360px;
-    height: 250px;
-    border:1px solid #7a5901;
+body{
+    background-color: brown;
+    color: bisque;
 }
-#logo_img
-{
-    width: 150px;
-    border-radius: 100px;
+.heading{
+    width:80%;
+    font-size: 22px;
 }
-#textbox
-{
-    width: 300px;
-}
-#result
-{
-    width:360px;
-    height: 250px;
-    border:1px solid #7a5901;
+#camera,#result{
+    border:2px dashed #B5651e;
+    width:350px;
+    height: 300px;
+    border-radius: 20px;
 }
